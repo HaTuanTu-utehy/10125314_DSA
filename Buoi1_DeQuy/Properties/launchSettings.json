@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Buoi1_DeQuy": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

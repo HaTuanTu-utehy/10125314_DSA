@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZEtZSi8fWo=",
+  "success": true,
+  "projectFilePath": "C:\\10125314_DSA\\10125314_DSA\\Buoi1_DeQuy\\Buoi1_DeQuy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
